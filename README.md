@@ -8,7 +8,7 @@
 ### Full-Stack Developer | AI & Cloud Enthusiast
 - 🎓 Computer Science Student with a focus on Software Development
 
-- 🚀 Skilled in **JavaScript, TypeScript, Python, React, Node.js, FastAPI, and Cloud Technologies**
+- 🚀 Skilled in **JavaScript, TypeScript, Python, React, Node.js,NestJs,NextJs, FastAPI, and Cloud Technologies**
 
 - 🤖 Passionate about Full-Stack Development, AI, and Scalable Web Applications
 

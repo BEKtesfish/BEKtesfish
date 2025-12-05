@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Tesfaye!;" /> </h1>
-Full-Stack Developer | Machine Learning Enthusiast | Cloud & DevOps Learner
+### Full-Stack Developer | Machine Learning Enthusiast | Cloud & DevOps Learner
 
-🎓 Computer Science B.Sc. student at Kristianstad University — graduating June 2026
+*** 🎓 Computer Science B.Sc. student at Kristianstad University — graduating June 2026
 
 🔧 Skilled in Python, TypeScript, JavaScript, Java, Kotlin, React, Node.js, NestJS, FastAPI, Django
 

@@ -1,27 +1,32 @@
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Tesfaye!;" /> </h1>
+Full-Stack Developer | Machine Learning Enthusiast | Cloud & DevOps Learner
 
+🎓 Computer Science B.Sc. student at Kristianstad University — graduating June 2026
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Tesfaye!;" />
-</h1>
+🔧 Skilled in Python, TypeScript, JavaScript, Java, Kotlin, React, Node.js, NestJS, FastAPI, Django
 
+🗄️ Experienced with PostgreSQL, MySQL, MongoDB
 
-### Full-Stack Developer | AI & Cloud Enthusiast
-- 🎓 Computer Science Student with a focus on Software Development
+🤖 Strong interest in Machine Learning, RAG systems, LLMs, Embeddings, Deep Learning
 
-- 🚀 Skilled in **JavaScript, TypeScript, Python, React, Node.js, NestJs, NextJs, FastAPI, and Cloud Technologies**
+☁️ Cloud & DevOps: Docker, Terraform, Azure, GCP, Git, Jira, ClickUp
 
-- 🤖 Passionate about Full-Stack Development, AI, and Scalable Web Applications
+💼 Internship Experience:
 
-- 💡 Always learning and exploring new technologies
+Full-Stack Developer Intern @ Gaddr
 
-- 💬 Open to discussions on software development, cloud computing, and AI
-<br>
+Full-Stack Developer Intern @ Greenology Engineering
 
-<hr/>
+🧪 Built projects in:
 
+Recommendation Systems (Semantic Search, Embeddings, LLM-based RAG)
 
+Computer Vision (TensorFlow, CNNs, TensorFlow Serving)
 
-<br>
+Deep Learning Architectures (ResNet101)
 
+💡 Always learning, building, and exploring new technologies
 
+💬 Open to collaboration on ML, full-stack development, and cloud projects
 
+<br> <hr/> <br>

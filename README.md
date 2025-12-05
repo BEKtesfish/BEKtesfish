@@ -29,5 +29,4 @@
 💡 Always learning, building, and exploring new technologies
 
 💬 Open to collaboration on ML, full-stack development, and cloud projects
-
 <br> <hr/> <br>

@@ -19,7 +19,9 @@
 * Full-Stack Developer Intern @ Greenology Engineering
 
 ### 🧪 Built projects in:
-* Ai Workspace (Note taking, document uploading, )
+
+* Ai Workspace ( Note taking, isolated workspaces, Upload and manage PDF documents, Interact with their data using an AI assistant )
+  
 * Recommendation Systems (Semantic Search, Embeddings, LLM-based RAG)
 
 * Computer Vision (TensorFlow, CNNs, TensorFlow Serving)

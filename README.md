@@ -19,7 +19,7 @@
 * Full-Stack Developer Intern @ Greenology Engineering
 
 ### 🧪 Built projects in:
-
+* Ai Workspace (Note taking, document uploading, )
 * Recommendation Systems (Semantic Search, Embeddings, LLM-based RAG)
 
 * Computer Vision (TensorFlow, CNNs, TensorFlow Serving)
